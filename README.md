@@ -33,6 +33,10 @@ pip install scikit-image
 ```
 pip install timm
 ```
+- Install OpenMMLab computer vision foundation:
+```
+pip install mmcv
+```
 - Install library for parsing and emitting YAML:
 ```
 pip install pyyaml
