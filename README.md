@@ -29,6 +29,10 @@ conda install -c conda-forge imageio
 ```
 pip install scikit-image
 ```
+- Install unofficial pytorch image model:
+```
+pip install timm
+```
 - Install library for parsing and emitting YAML:
 ```
 pip install pyyaml
