@@ -78,6 +78,28 @@ conda install -c anaconda jupyter
 |   |-- Kvasir
 |       |-- images
 |       |-- masks
+
+|-- CVC-ClinicDB_Splited
+|   |-- testSplited
+|   |   |-- images
+|   |   |-- masks
+|   |-- trainSplited
+|   |   |-- images
+|   |   |-- masks
+|   |-- validationSplited
+|   |   |-- images
+|   |   |-- masks
+
+|-- Kvasir_Splited
+|   |-- testSplited
+|   |   |-- images
+|   |   |-- masks
+|   |-- trainSplited
+|   |   |-- images
+|   |   |-- masks
+|   |-- validationSplited
+|   |   |-- images
+|   |   |-- masks
 ```
 - The default dataset paths can be changed in "Configure.yaml"
 - To randomly split the CVC-ClincDB or Kvasir dataset, set "if_renew = True" in "ESFPNet_Endoscope_Learning_Ability.ipynb"
