@@ -52,7 +52,9 @@ conda install -c anaconda jupyter
 ### Dataset
 - Download the training and testing dataset from this link: [Experiment Dataset](https://drive.google.com/drive/folders/1FneOIY5OC0gaIHceBqYXqj5GCdutcLfv?usp=sharing)
 - Extract the folders and copy them under "Endoscope-WL" folder
-- The training and testing dataset are ordered as follows in "Endoscope-WL" folder:
+- The datasets are ordered as follows in "Endoscope-WL" folder:
+- TrainDataset and TestDataset are used in Table 4 & 5.
+- CVC-ClinicDB_Splited and Kvasir_Splited are used in Table 3.
 ```
 |-- TrainDataset
 |   |-- CVC-ClinicDB
