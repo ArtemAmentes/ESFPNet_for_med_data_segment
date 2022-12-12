@@ -17,11 +17,11 @@ Official Implementation of "ESFPNet: efficient deep learning architecture for re
 
 ## Installation & Usage
 ### Enviroment (Python 3.8)
-- Install Pytorch:
+- Install Pytorch (version 1.11.0, torchvision == 0.12.0):
 ```
-conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch
+conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
 ```
-- Install image reading and writting library:
+- Install image reading and writting library (version 2.21.2):
 ```
 conda install -c conda-forge imageio
 ```
