@@ -15,6 +15,9 @@ Official Implementation of "ESFPNet: efficient deep learning architecture for re
 
 <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Network.jpg" width="1000" height="500" alt="Result"/></div>
 
+**:fire: NEWS :fire:**
+**The full paper is available:** [ESFPNet](https://arxiv.org/pdf/2207.07759v3.pdf)
+
 ## Installation & Usage
 ### Enviroment (Python 3.8)
 - Install Pytorch (version 1.11.0, torchvision == 0.12.0):
