@@ -119,15 +119,26 @@ Sample of AFB Segmentation Results (Figure 3):
 <div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/ImageResult.jpg" width="600" alt="Result"/></div>
 
 ### Autofluorescence Bronchoscopic Video Clip Analysis
-ESFPNet detection and segmentation test on a video clip (case 21405_198)
+ESFPNet detection and segmentation test on a video clip (case 21405_198, Figure 4)
 <div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/VideoTest.jpg" width="600" alt="Result"/></div>
+
 
 Animated GIF Result View 
 
 | AFB video Clip | Ground Truth |Segmentation Result |
 | :---: | :---: | :---: |
 |<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/OriginalFrames_10FPS_360.gif" width="180" alt="Result"/></div>|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/GroundTruth_10FPS_360.gif" width="180" alt="Result"/></div>| <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/Prediction_10FPS_360.gif" width="180" alt="Result"/></div>|
+
 ### Polyp Segmentation Figure Results
+Quantitative Comparison in Learning Ability (Table 3)
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
+
+Quantitative Comparison in Power balance between Learning Ability and Generalizability Capbility (Table 5)
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
+
+Sample of Polyp Segmentation Results (Figure 5)
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
+
 ### Saved ESFPNet Model And Image Results For Polyp Dataset
 ### Citation
 If you think this paper helps, please cite:
