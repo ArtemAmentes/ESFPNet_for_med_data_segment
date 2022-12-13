@@ -131,15 +131,18 @@ Animated GIF Result View
 
 ### Polyp Segmentation Figure Results
 Quantitative Comparison in Learning Ability (Table 3)
-<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/LABest.JPG" width="200" alt="Result"/></div>
 
 Quantitative Comparison in Power balance between Learning Ability and Generalizability Capbility (Table 5)
-<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/EITSBest.JPG" width="600" alt="Result"/></div>
 
 Sample of Polyp Segmentation Results (Figure 5)
 <div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
 
 ### Saved ESFPNet Model And Image Results For Polyp Dataset
+The saved ESFPNet model and generated image results for Table 3, 4, and 5 are stored [here](https://drive.google.com/drive/folders/1I4vsts-dfyUgrnbKi-Z8XQYVhVICYpOs?usp=share_link).
+In addtion, the evaluation results are stored in each folder result.txt
+
 ### Citation
 If you think this paper helps, please cite:
 ```
