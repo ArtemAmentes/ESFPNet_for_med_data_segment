@@ -13,7 +13,7 @@ Official Implementation of "ESFPNet: efficient deep learning architecture for re
 
 ## Architecture of ESFPNet
 
-<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Network.jpg" width="1000" height="550" alt="Result"/></div>
+<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Network.jpg" width="1000" height="450" alt="Result"/></div>
 
 ## Installation & Usage
 ### Enviroment (Python 3.8)
