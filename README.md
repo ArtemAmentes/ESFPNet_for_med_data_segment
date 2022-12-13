@@ -113,6 +113,8 @@ conda install -c anaconda jupyter
 ## Evaluation
 ### Autofluorescence Bronchoscopic Segmentation Results
 ### Autofluorescence Bronchoscopic Video Clip Analysis
+ESFPNet detection and segmentation test on a video clip (case 21405_198)
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/VideoTest.jpg" width="600" alt="Result"/></div>
 | AFB video Clip | Ground Truth |Segmentation Result |
 | :---: | :---: | :---: |
 |<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/OriginalFrames_10FPS_360.gif" width="180" alt="Result"/></div>|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/GroundTruth_10FPS_360.gif" width="180" alt="Result"/></div>| <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/Prediction_10FPS_360.gif" width="180" alt="Result"/></div>|
