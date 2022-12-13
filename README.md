@@ -110,6 +110,14 @@ conda install -c anaconda jupyter
 ### Pretrained model
 - Download the pretrained Mixtransformer from this link: [Pretrained Model](https://drive.google.com/drive/folders/1FLtIfDHDaowqyF_HhmORFMlRzCpB94hV?usp=sharing)
 - Put the pretrained models under "Pretrained" folder
+### Saved model
+### Evaluation
+## Autofluorescence Bronchoscopic Segmentation Results
+## Autofluorescence Bronchoscopic Video Clip Analysis
+| AFB video Clip | Ground Truth |Segmentation Result |
+| :---: | :---: | :---: |
+|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/OriginalFrames_15FPS_360.gif" width="180" alt="Result"/></div>|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/GroundTruth_15FPS_360.gif" width="180" alt="Result"/></div>| <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Prediction_15FPS_360.gif" width="180" alt="Result"/></div>|
+## Polyp Segmentation Results
 ### Citation
 If you think this paper helps, please cite:
 ```
