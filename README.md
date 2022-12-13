@@ -107,17 +107,17 @@ conda install -c anaconda jupyter
 - To randomly split the CVC-ClincDB or Kvasir dataset, set "if_renew = True" in "ESFPNet_Endoscope_Learning_Ability.ipynb"
 - To repeat generate the splitting dataset, previous generated folder shold be detelted first
 - To reuse the splitting dataset without generating a new dataset, set "if_renew = False"
-### Pretrained model
+### Pretrained Model
 - Download the pretrained Mixtransformer from this link: [Pretrained Model](https://drive.google.com/drive/folders/1FLtIfDHDaowqyF_HhmORFMlRzCpB94hV?usp=sharing)
 - Put the pretrained models under "Pretrained" folder
-### Saved model
-### Evaluation
-## Autofluorescence Bronchoscopic Segmentation Results
-## Autofluorescence Bronchoscopic Video Clip Analysis
+## Evaluation
+### Autofluorescence Bronchoscopic Segmentation Results
+### Autofluorescence Bronchoscopic Video Clip Analysis
 | AFB video Clip | Ground Truth |Segmentation Result |
 | :---: | :---: | :---: |
 |<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/OriginalFrames_10FPS_360.gif" width="180" alt="Result"/></div>|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/GroundTruth_10FPS_360.gif" width="180" alt="Result"/></div>| <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Prediction_10FPS_360.gif" width="180" alt="Result"/></div>|
-## Polyp Segmentation Results
+### Polyp Segmentation Figure Results
+### Saved ESFPNet Model And Image Results For Polyp Dataset
 ### Citation
 If you think this paper helps, please cite:
 ```
