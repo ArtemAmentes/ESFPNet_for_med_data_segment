@@ -115,7 +115,7 @@ conda install -c anaconda jupyter
 ### Autofluorescence Bronchoscopic Video Clip Analysis
 | AFB video Clip | Ground Truth |Segmentation Result |
 | :---: | :---: | :---: |
-|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/OriginalFrames_10FPS_360.gif" width="180" alt="Result"/></div>|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/GroundTruth_10FPS_360.gif" width="180" alt="Result"/></div>| <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Prediction_10FPS_360.gif" width="180" alt="Result"/></div>|
+|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/OriginalFrames_10FPS_360.gif" width="180" alt="Result"/></div>|<div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/GroundTruth_10FPS_360.gif" width="180" alt="Result"/></div>| <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/Prediction_10FPS_360.gif" width="180" alt="Result"/></div>|
 ### Polyp Segmentation Figure Results
 ### Saved ESFPNet Model And Image Results For Polyp Dataset
 ### Citation
