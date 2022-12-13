@@ -112,8 +112,8 @@ conda install -c anaconda jupyter
 - Put the pretrained models under "Pretrained" folder
 ## Evaluation
 ### Autofluorescence Bronchoscopic Segmentation Results
-Quantative Comparision (Table 2):
-<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/VideoTest.jpg" width="600" alt="Result"/></div>
+Quantitative Comparsion (Table 2):
+<div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/QuantitativeComparsion.JPG" width="600" alt="Result"/></div>
 
 Sample of AFB Segmentation Results (Figure 3):
 <div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/ImageResult.jpg" width="600" alt="Result"/></div>
@@ -121,6 +121,8 @@ Sample of AFB Segmentation Results (Figure 3):
 ### Autofluorescence Bronchoscopic Video Clip Analysis
 ESFPNet detection and segmentation test on a video clip (case 21405_198)
 <div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/VideoTest.jpg" width="600" alt="Result"/></div>
+
+Animated GIF Result View 
 
 | AFB video Clip | Ground Truth |Segmentation Result |
 | :---: | :---: | :---: |
