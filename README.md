@@ -1,6 +1,9 @@
 # ESFPNet
 Official Implementation of "ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video"
 
+**:fire: NEWS :fire:**
+**The full paper is available:** [ESFPNet](https://arxiv.org/pdf/2207.07759v3.pdf)
+
 ## Global Rank
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/esfpnet-efficient-deep-learning-architecture/medical-image-segmentation-on-cvc-clinicdb)](https://paperswithcode.com/sota/medical-image-segmentation-on-cvc-clinicdb?p=esfpnet-efficient-deep-learning-architecture)
@@ -14,9 +17,6 @@ Official Implementation of "ESFPNet: efficient deep learning architecture for re
 ## Architecture of ESFPNet
 
 <div align=center><img src="https://github.com/dumyCq/ESFPNet/blob/main/Figures/Network.jpg" width="1000" height="500" alt="Result"/></div>
-
-**:fire: NEWS :fire:**
-**The full paper is available:** [ESFPNet](https://arxiv.org/pdf/2207.07759v3.pdf)
 
 ## Installation & Usage
 ### Enviroment (Python 3.8)
