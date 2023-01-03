@@ -2,7 +2,9 @@
 Official Implementation of "ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video"
 
 **:fire: NEWS :fire:**
-**The full paper is available:** [ESFPNet](https://arxiv.org/pdf/2207.07759v3.pdf)
+**The full paper is available:** [The complete paper of ESFPNet](https://arxiv.org/pdf/2207.07759v3.pdf)
+**The polyp datasets' results is available:** [Polyp Datasets' ESFPNet Models and Image Results](https://drive.google.com/drive/folders/1I4vsts-dfyUgrnbKi-Z8XQYVhVICYpOs?usp=share_link).
+
 
 ## Global Rank
 
@@ -148,7 +150,7 @@ Sample of Polyp Segmentation Results (Figure 5)
 <div align=left><img src="https://github.com/dumyCq/ESFPNet/blob/main/results/PublicResult.jpg" width="600" alt="Result"/></div>
 
 ### Saved ESFPNet Model And Image Results For Polyp Dataset
-The saved ESFPNet model and generated image results for Table 3, 4, and 5 are stored [here](https://drive.google.com/drive/folders/1I4vsts-dfyUgrnbKi-Z8XQYVhVICYpOs?usp=share_link).
+The saved ESFPNet model and generated image results for Table 3, 4, and 5 are stored [here (Polyp Datasets' Models and Image Results)](https://drive.google.com/drive/folders/1I4vsts-dfyUgrnbKi-Z8XQYVhVICYpOs?usp=share_link).
 
 In addtion, the evaluation results are stored in each folder result.txt
 
