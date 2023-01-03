@@ -3,6 +3,7 @@ Official Implementation of "ESFPNet: efficient deep learning architecture for re
 
 **:fire: NEWS :fire:**
 **The full paper is available:** [The complete paper of ESFPNet](https://arxiv.org/pdf/2207.07759v3.pdf)
+
 **The polyp datasets' results is available:** [Polyp Datasets' ESFPNet Models and Image Results](https://drive.google.com/drive/folders/1I4vsts-dfyUgrnbKi-Z8XQYVhVICYpOs?usp=share_link).
 
 
