@@ -6,6 +6,9 @@ Official Implementation of "ESFPNet: efficient deep learning architecture for re
 
 **The polyp datasets' results is available:** [Polyp Datasets' ESFPNet Models and Image Results](https://drive.google.com/drive/folders/1I4vsts-dfyUgrnbKi-Z8XQYVhVICYpOs?usp=share_link).
 
+**:fire: CHEERS! :fire:** 
+**This paper is selected as a [finalist of the Robert F. Wagner All-Conference Best Student Paper Award at SPIE Medical Imaging 2023](https://drive.google.com/file/d/1974ALKd6X0EUzm4nuR3kBWr2Gj0ctpdz/view?usp=share_link)**
+
 
 ## Global Rank
 
