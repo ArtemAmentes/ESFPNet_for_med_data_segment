@@ -161,11 +161,14 @@ In addtion, the evaluation results are stored in each folder result.txt
 ### Citation
 If you think this paper helps, please cite:
 ```
-@article{chang2022esfpnet,
+@inproceedings{chang2023esfpnet,
   title={ESFPNet: efficient deep learning architecture for real-time lesion segmentation in autofluorescence bronchoscopic video},
   author={Chang, Qi and Ahmad, Danish and Toth, Jennifer and Bascom, Rebecca and Higgins, William E},
-  journal={arXiv preprint arXiv:2207.07759},
-  year={2022}
+  booktitle={Medical Imaging 2023: Biomedical Applications in Molecular, Structural, and Functional Imaging},
+  volume={12468},
+  pages={1246803},
+  year={2023},
+  organization={SPIE}
 }
 ```
 Since the training of MixTransformer based network requires a good GPU.
